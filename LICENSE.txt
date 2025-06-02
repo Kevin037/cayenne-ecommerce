@@ -1,0 +1,4 @@
+All rights reserved.
+
+This code is provided solely for evaluation and portfolio purposes.
+Any use, redistribution, or deployment of this code without explicit permission is prohibited.

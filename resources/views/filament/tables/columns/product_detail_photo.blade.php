@@ -1,0 +1,1 @@
+<img src="{{ \App\Models\Product::get_photo($getState()) }}" alt="" width="100px">
